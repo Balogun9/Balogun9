@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balogun9
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me matthewsheun13@gmail.com
 
